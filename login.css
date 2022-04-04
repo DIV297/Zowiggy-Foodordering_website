@@ -1,0 +1,38 @@
+.navbar{
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 100%;
+    text-align: right;
+    font-size: large;
+    position: fixed;
+    text-decoration: none;
+    padding: 10px;
+    background-color: rgb(17, 4, 6);
+}
+.Login{
+    padding: 10px;
+    font-size: 3vh;
+    color: rgb(10, 158, 243);
+}
+a:hover{
+    color: rgb(241, 237, 237);
+    text-decoration: none;
+}
+.searchbox{
+    border: 0;
+    border: 2px solid skyblue;
+    font-size: 20px;
+    color: #282c3f;
+    font-weight: 500;
+    padding: 20px 60px 20px 78px;
+    /* margin: 0; */
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    outline: none;
+    height: 68px;
+    line-height: 1.3em;
+    caret-color: #fc8019;
+    text-transform: capitalize;
+    margin-top: 100px;
+}
